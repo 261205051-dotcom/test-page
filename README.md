@@ -1,5 +1,5 @@
 # Github Pages おためし
 
-はじめて作ったページです
+はじめて作ったページです。
 
-Marakdownで書いています
+Marakdownで書いています。
